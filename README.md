@@ -1,2 +1,2 @@
 # helloworldgo
-Sample Code for Go Programming Language
+Sample Codes for Go Programming Language
